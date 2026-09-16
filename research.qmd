@@ -1,0 +1,29 @@
+---
+title: "Research"
+---
+
+## Overview
+
+[Describe your lab's overarching research program in 2-3 sentences. What
+questions does the lab ask, and what systems/methods does it use to answer
+them?]
+
+## Research Area 1: [Title]
+
+[Description of this research theme. Add a photo or figure if you have one:]
+
+<!-- ![Caption describing the figure](images/research1.jpg) -->
+
+## Research Area 2: [Title]
+
+[Description of this research theme.]
+
+## Research Area 3: [Title]
+
+[Description of this research theme.]
+
+## Funding
+
+*List current and past grants supporting the lab's work, e.g.:*
+
+- **[Funding Agency]**, [Grant Title], [Award Number], [Years]

@@ -1,0 +1,47 @@
+---
+title: "People"
+---
+
+## Principal Investigator
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-3}
+![](images/placeholder-headshot.png){.img-fluid style="border-radius: 8px;"}
+:::
+
+::: {.g-col-12 .g-col-md-9}
+### Dr. [Your Name]
+**Principal Investigator**
+
+[One or two sentences of bio: research interests, background, prior positions.]
+
+[Email](mailto:you@university.edu) &nbsp;·&nbsp;
+[Google Scholar](#) &nbsp;·&nbsp;
+[ORCID](#)
+:::
+
+:::
+
+## Graduate Students
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-3}
+![](images/placeholder-headshot.png){.img-fluid style="border-radius: 8px;"}
+:::
+
+::: {.g-col-12 .g-col-md-9}
+### [Student Name]
+**PhD Student** (started [Year])
+
+[One sentence on their project or research interests.]
+:::
+
+:::
+
+*Copy the block above for each additional student, postdoc, or staff member.*
+
+## Lab Alumni
+
+- **[Name]** ([Years in lab]) — now [current position]. [Thesis/project title.]

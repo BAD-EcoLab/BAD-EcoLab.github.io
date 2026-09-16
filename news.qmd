@@ -1,0 +1,9 @@
+---
+title: "News"
+---
+
+Add new items to the top of this list.
+
+- **[Month Year]** — [News item: paper accepted, grant awarded, new lab member, conference talk, etc.]
+- **[Month Year]** — [News item]
+- **[Month Year]** — [News item]

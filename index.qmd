@@ -1,0 +1,29 @@
+---
+title: "BAD Ecology Lab"
+subtitle: "Department of [Your Department] · [University Name]"
+page-layout: article
+---
+
+## Welcome
+
+We are the **BAD Ecology Lab**, studying [replace with a 1-2 sentence description
+of your research focus — e.g. "how disturbance shapes plant community assembly
+in grassland ecosystems"] at [University Name].
+
+::: {.callout-note}
+## This is a template
+Replace the bracketed placeholder text throughout this site with your own
+content. See the README in this repository for a full list of files to edit.
+:::
+
+## Recent News
+
+- **[Month Year]** — [Add a news item: new paper, new lab member, award, etc.]
+- **[Month Year]** — [Add another news item]
+
+See the [News](news.qmd) page for the full list.
+
+## Get in Touch
+
+Interested in joining the lab or collaborating? Visit [Contact](contact.qmd)
+for details.

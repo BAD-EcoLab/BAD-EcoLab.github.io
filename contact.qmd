@@ -1,0 +1,19 @@
+---
+title: "Contact"
+---
+
+## Address
+
+[Department Name]\
+[University Name]\
+[Street Address]\
+[City, State ZIP]
+
+## Email
+
+[you@university.edu](mailto:you@university.edu)
+
+## Joining the Lab
+
+[A sentence or two on whether you're recruiting students/postdocs and how
+interested applicants should reach out.]

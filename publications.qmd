@@ -1,0 +1,11 @@
+---
+title: "Publications"
+bibliography: references.bib
+nocite: |
+  @*
+---
+
+Publications below are generated automatically from `references.bib` in
+this repository. To add a new publication, add a new BibTeX entry to that
+file — no need to edit this page. Quarto will render the full list under
+"References" when the site rebuilds.
