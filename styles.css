@@ -1,0 +1,9 @@
+/* Add custom styling here. The site theme (cosmo) is set in _quarto.yml. */
+
+.navbar-title {
+  font-weight: 600;
+}
+
+.callout-note {
+  font-size: 0.95em;
+}

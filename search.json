@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "[Department Name]\n[University Name]\n[Street Address]\n[City, State ZIP]"
+  },
+  {
+    "objectID": "contact.html#address",
+    "href": "contact.html#address",
+    "title": "Contact",
+    "section": "",
+    "text": "[Department Name]\n[University Name]\n[Street Address]\n[City, State ZIP]"
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "Email",
+    "text": "Email\nyou@university.edu"
+  },
+  {
+    "objectID": "contact.html#joining-the-lab",
+    "href": "contact.html#joining-the-lab",
+    "title": "Contact",
+    "section": "Joining the Lab",
+    "text": "Joining the Lab\n[A sentence or two on whether you’re recruiting students/postdocs and how interested applicants should reach out.]"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "[Describe your lab’s overarching research program in 2-3 sentences. What questions does the lab ask, and what systems/methods does it use to answer them?]"
+  },
+  {
+    "objectID": "research.html#overview",
+    "href": "research.html#overview",
+    "title": "Research",
+    "section": "",
+    "text": "[Describe your lab’s overarching research program in 2-3 sentences. What questions does the lab ask, and what systems/methods does it use to answer them?]"
+  },
+  {
+    "objectID": "research.html#research-area-1-title",
+    "href": "research.html#research-area-1-title",
+    "title": "Research",
+    "section": "Research Area 1: [Title]",
+    "text": "Research Area 1: [Title]\n[Description of this research theme. Add a photo or figure if you have one:]"
+  },
+  {
+    "objectID": "research.html#research-area-2-title",
+    "href": "research.html#research-area-2-title",
+    "title": "Research",
+    "section": "Research Area 2: [Title]",
+    "text": "Research Area 2: [Title]\n[Description of this research theme.]"
+  },
+  {
+    "objectID": "research.html#research-area-3-title",
+    "href": "research.html#research-area-3-title",
+    "title": "Research",
+    "section": "Research Area 3: [Title]",
+    "text": "Research Area 3: [Title]\n[Description of this research theme.]"
+  },
+  {
+    "objectID": "research.html#funding",
+    "href": "research.html#funding",
+    "title": "Research",
+    "section": "Funding",
+    "text": "Funding\nList current and past grants supporting the lab’s work, e.g.:\n\n[Funding Agency], [Grant Title], [Award Number], [Years]"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Principal Investigator\n[One or two sentences of bio: research interests, background, prior positions.]\nEmail  ·  Google Scholar  ·  ORCID"
+  },
+  {
+    "objectID": "people.html#principal-investigator",
+    "href": "people.html#principal-investigator",
+    "title": "People",
+    "section": "",
+    "text": "Principal Investigator\n[One or two sentences of bio: research interests, background, prior positions.]\nEmail  ·  Google Scholar  ·  ORCID"
+  },
+  {
+    "objectID": "people.html#graduate-students",
+    "href": "people.html#graduate-students",
+    "title": "People",
+    "section": "Graduate Students",
+    "text": "Graduate Students\n\n\n\n\n\n[Student Name]\nPhD Student (started [Year])\n[One sentence on their project or research interests.]\n\n\nCopy the block above for each additional student, postdoc, or staff member."
+  },
+  {
+    "objectID": "people.html#lab-alumni",
+    "href": "people.html#lab-alumni",
+    "title": "People",
+    "section": "Lab Alumni",
+    "text": "Lab Alumni\n\n[Name] ([Years in lab]) — now [current position]. [Thesis/project title.]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BAD Ecology Lab",
+    "section": "",
+    "text": "We are the BAD Ecology Lab, studying [replace with a 1-2 sentence description of your research focus — e.g. “how disturbance shapes plant community assembly in grassland ecosystems”] at [University Name].\n\n\n\n\n\n\nNoteThis is a template\n\n\n\nReplace the bracketed placeholder text throughout this site with your own content. See the README in this repository for a full list of files to edit."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "BAD Ecology Lab",
+    "section": "",
+    "text": "We are the BAD Ecology Lab, studying [replace with a 1-2 sentence description of your research focus — e.g. “how disturbance shapes plant community assembly in grassland ecosystems”] at [University Name].\n\n\n\n\n\n\nNoteThis is a template\n\n\n\nReplace the bracketed placeholder text throughout this site with your own content. See the README in this repository for a full list of files to edit."
+  },
+  {
+    "objectID": "index.html#recent-news",
+    "href": "index.html#recent-news",
+    "title": "BAD Ecology Lab",
+    "section": "Recent News",
+    "text": "Recent News\n\n[Month Year] — [Add a news item: new paper, new lab member, award, etc.]\n[Month Year] — [Add another news item]\n\nSee the News page for the full list."
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "BAD Ecology Lab",
+    "section": "Get in Touch",
+    "text": "Get in Touch\nInterested in joining the lab or collaborating? Visit Contact for details."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications below are generated automatically from references.bib in this repository. To add a new publication, add a new BibTeX entry to that file — no need to edit this page. Quarto will render the full list under “References” when the site rebuilds.\n\n\n\n\nReferences\n\nDoe, Jane, and Alex Lee. 2022. “A Second Example Publication.” Another Ecology Journal 8: 45–60. https://doi.org/10.xxxx/example2.\n\n\nDoe, Jane, and John Smith. 2024. “An Example Publication Title Goes Here.” Journal of Example Ecology 12 (3): 100–110. https://doi.org/10.xxxx/example."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Add new items to the top of this list.\n\n[Month Year] — [News item: paper accepted, grant awarded, new lab member, conference talk, etc.]\n[Month Year] — [News item]\n[Month Year] — [News item]"
+  }
+]
