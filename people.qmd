@@ -7,23 +7,24 @@ title: "People"
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-3}
-![](images/placeholder-headshot.png){.img-fluid style="border-radius: 8px;"}
+![](images/ZackHeadshot.jpeg){.img-fluid style="border-radius: 8px;"}
 :::
 
 ::: {.g-col-12 .g-col-md-9}
-### Dr. [Your Name]
+### Zack Steel
 **Principal Investigator**
 
-[One or two sentences of bio: research interests, background, prior positions.]
+Zack is a Research Ecologist with the Forest Service, Rocky Mountain Research Station in Fort Collins, CO and an Affiliate Faculty at Colorado State University. He is interested all things forest disturbance, and wildlife, especially western forests, birds, and bats.    
 
-[Email](mailto:you@university.edu) &nbsp;·&nbsp;
-[Google Scholar](#) &nbsp;·&nbsp;
-[ORCID](#)
+Email: zachary.steel[at]usda.gov &nbsp;·&nbsp;
+<!-- [Email](mailto:you@university.edu) &nbsp;·&nbsp; -->
+[Google Scholar](https://scholar.google.com/citations?user=HQaJ7J0AAAAJ&hl=en&oi=sra) &nbsp;·&nbsp;
+[Forest Service Profile](https://research.fs.usda.gov/about/people/zachary.steel) &nbsp;·&nbsp;
 :::
 
 :::
 
-## Graduate Students
+## Current Researchers
 
 ::: {.grid}
 
@@ -32,10 +33,23 @@ title: "People"
 :::
 
 ::: {.g-col-12 .g-col-md-9}
-### [Student Name]
-**PhD Student** (started [Year])
+### Leah McTigue
+**Research Associate** (started 2023)
 
-[One sentence on their project or research interests.]
+[A few sentences on their project or research interests.]
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-3}
+![](images/placeholder-headshot.png){.img-fluid style="border-radius: 8px;"}
+:::
+
+::: {.g-col-12 .g-col-md-9}
+### Hailey Boone
+**Postdoctoral Researcher** (started 2025)
+
+[A few sentences on their project or research interests.]
 :::
 
 :::
@@ -44,4 +58,14 @@ title: "People"
 
 ## Lab Alumni
 
-- **[Name]** ([Years in lab]) — now [current position]. [Thesis/project title.]
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-3}
+![](images/placeholder-headshot.png){.img-fluid style="border-radius: 8px;"}
+:::
+
+::: {.g-col-12 .g-col-md-9}
+### Merijn van den Bosch
+**Postdoctoral Researcher** - now [current position]
+
+:::

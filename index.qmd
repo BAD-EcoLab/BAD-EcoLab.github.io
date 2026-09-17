@@ -1,27 +1,28 @@
 ---
-title: "BAD Ecology Lab"
-subtitle: "Department of [Your Department] · [University Name]"
+# title: "Biodiversity And Disturbance (BAD) Lab"
+title: " ."
+# subtitle: "(BAD Lab)"
+title-block-banner: images/ICB_Variability.jpg
+title-block-banner-color: grey10
 page-layout: article
 ---
 
-## Welcome
+<!-- ## Welcome -->
+## Biodiversity And Disturbance (BAD) Lab
 
-We are the **BAD Ecology Lab**, studying [replace with a 1-2 sentence description
-of your research focus — e.g. "how disturbance shapes plant community assembly
-in grassland ecosystems"] at [University Name].
+We are the Biodiversity and Disturbance Lab affiliated with the Forest Service Rocky Mountain Research Station and Colorado State University. Our research focuses on understanding how biodiversity and ecosystem function respond to natural and anthropogenic disturbances, including fire, drought, and land use change. We use a combination of field studies, spatial analyses, and modeling approaches to address questions related to wildlife response to change, forest resilience, and biodiversity conservation in the face of global change. Our work is motivated by the need to inform management and policy decisions that promote sustainable ecosystems and biodiversity conservation.
 
 ::: {.callout-note}
-## This is a template
-Replace the bracketed placeholder text throughout this site with your own
-content. See the README in this repository for a full list of files to edit.
+## This website is under construction
 :::
 
-## Recent News
+## Recent News & Upcoming Events
 
-- **[Month Year]** — [Add a news item: new paper, new lab member, award, etc.]
-- **[Month Year]** — [Add another news item]
+- **November 2026** — Leah (and hopefully Zack) will be presenting our work at The Wildlife Society national meeting. Come find us.
+- **June 2026** — New article in led by lab alum Merijn van den Bosch was published in [Conservation Letters](https://conbio.onlinelibrary.wiley.com/doi/10.1111/con4.70069) documents drought impacts on birds in the arid West.
+- **February 2026** - New article led by Leah McTigue, Merijn van den Bosch, and Hailey Boone was published in [Global Change Biology](https://onlinelibrary.wiley.com/doi/10.1111/gcb.70752), reviewing the global literature on drought effects on wildlife. 
 
-See the [News](news.qmd) page for the full list.
+<!-- See the [News](news.qmd) page for the full list. -->
 
 ## Get in Touch
 

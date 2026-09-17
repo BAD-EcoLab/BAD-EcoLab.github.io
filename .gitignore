@@ -1,3 +1,7 @@
 /.quarto/
 /_site/
 .DS_Store
+.Rproj.user
+.positai
+
+**/*.quarto_ipynb
