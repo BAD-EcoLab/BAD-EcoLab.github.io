@@ -74,54 +74,54 @@
     "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "Principal Investigator\n[One or two sentences of bio: research interests, background, prior positions.]\nEmail  ·  Google Scholar  ·  ORCID"
+    "text": "Principal Investigator\nZack is a Research Ecologist with the Forest Service, Rocky Mountain Research Station in Fort Collins, CO and an Affiliate Faculty at Colorado State University. He is interested all things forest disturbance, and wildlife, especially western forests, birds, and bats.\nEmail: zachary.steel[at]usda.gov  ·   Google Scholar  ·  Forest Service Profile  ·"
   },
   {
     "objectID": "people.html#principal-investigator",
     "href": "people.html#principal-investigator",
     "title": "People",
     "section": "",
-    "text": "Principal Investigator\n[One or two sentences of bio: research interests, background, prior positions.]\nEmail  ·  Google Scholar  ·  ORCID"
+    "text": "Principal Investigator\nZack is a Research Ecologist with the Forest Service, Rocky Mountain Research Station in Fort Collins, CO and an Affiliate Faculty at Colorado State University. He is interested all things forest disturbance, and wildlife, especially western forests, birds, and bats.\nEmail: zachary.steel[at]usda.gov  ·   Google Scholar  ·  Forest Service Profile  ·"
   },
   {
-    "objectID": "people.html#graduate-students",
-    "href": "people.html#graduate-students",
+    "objectID": "people.html#current-researchers",
+    "href": "people.html#current-researchers",
     "title": "People",
-    "section": "Graduate Students",
-    "text": "Graduate Students\n\n\n\n\n\n[Student Name]\nPhD Student (started [Year])\n[One sentence on their project or research interests.]\n\n\nCopy the block above for each additional student, postdoc, or staff member."
+    "section": "Current Researchers",
+    "text": "Current Researchers\n\n\n\n\n\nLeah McTigue\nResearch Associate (started 2023)\n[A few sentences on their project or research interests.]\n\n\n\n\n\n\nHailey Boone\nPostdoctoral Researcher (started 2025)\n[A few sentences on their project or research interests.]\n\n\nCopy the block above for each additional student, postdoc, or staff member.\n\nLab Alumni\n\n\n\n\n\nMerijn van den Bosch\nPostdoctoral Researcher - now [current position]"
   },
   {
     "objectID": "people.html#lab-alumni",
     "href": "people.html#lab-alumni",
     "title": "People",
     "section": "Lab Alumni",
-    "text": "Lab Alumni\n\n[Name] ([Years in lab]) — now [current position]. [Thesis/project title.]"
+    "text": "Lab Alumni\n\n\n\n\n\nMerijn van den Bosch\nPostdoctoral Researcher - now [current position]"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "BAD Ecology Lab",
+    "title": ".",
     "section": "",
-    "text": "We are the BAD Ecology Lab, studying [replace with a 1-2 sentence description of your research focus — e.g. “how disturbance shapes plant community assembly in grassland ecosystems”] at [University Name].\n\n\n\n\n\n\nNoteThis is a template\n\n\n\nReplace the bracketed placeholder text throughout this site with your own content. See the README in this repository for a full list of files to edit."
+    "text": "We are the Biodiversity and Disturbance Lab affiliated with the Forest Service Rocky Mountain Research Station and Colorado State University. Our research focuses on understanding how biodiversity and ecosystem function respond to natural and anthropogenic disturbances, including fire, drought, and land use change. We use a combination of field studies, spatial analyses, and modeling approaches to address questions related to wildlife response to change, forest resilience, and biodiversity conservation in the face of global change. Our work is motivated by the need to inform management and policy decisions that promote sustainable ecosystems and biodiversity conservation.\n\n\n\n\n\n\nNoteThis website is under construction"
   },
   {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "BAD Ecology Lab",
+    "objectID": "index.html#biodiversity-and-disturbance-bad-lab",
+    "href": "index.html#biodiversity-and-disturbance-bad-lab",
+    "title": ".",
     "section": "",
-    "text": "We are the BAD Ecology Lab, studying [replace with a 1-2 sentence description of your research focus — e.g. “how disturbance shapes plant community assembly in grassland ecosystems”] at [University Name].\n\n\n\n\n\n\nNoteThis is a template\n\n\n\nReplace the bracketed placeholder text throughout this site with your own content. See the README in this repository for a full list of files to edit."
+    "text": "We are the Biodiversity and Disturbance Lab affiliated with the Forest Service Rocky Mountain Research Station and Colorado State University. Our research focuses on understanding how biodiversity and ecosystem function respond to natural and anthropogenic disturbances, including fire, drought, and land use change. We use a combination of field studies, spatial analyses, and modeling approaches to address questions related to wildlife response to change, forest resilience, and biodiversity conservation in the face of global change. Our work is motivated by the need to inform management and policy decisions that promote sustainable ecosystems and biodiversity conservation.\n\n\n\n\n\n\nNoteThis website is under construction"
   },
   {
-    "objectID": "index.html#recent-news",
-    "href": "index.html#recent-news",
-    "title": "BAD Ecology Lab",
-    "section": "Recent News",
-    "text": "Recent News\n\n[Month Year] — [Add a news item: new paper, new lab member, award, etc.]\n[Month Year] — [Add another news item]\n\nSee the News page for the full list."
+    "objectID": "index.html#recent-news-upcoming-events",
+    "href": "index.html#recent-news-upcoming-events",
+    "title": ".",
+    "section": "Recent News & Upcoming Events",
+    "text": "Recent News & Upcoming Events\n\nNovember 2026 — Leah (and hopefully Zack) will be presenting our work at The Wildlife Society national meeting. Come find us.\nJune 2026 — New article in led by lab alum Merijn van den Bosch was published in Conservation Letters documents drought impacts on birds in the arid West.\nFebruary 2026 - New article led by Leah McTigue, Merijn van den Bosch, and Hailey Boone was published in Global Change Biology, reviewing the global literature on drought effects on wildlife."
   },
   {
     "objectID": "index.html#get-in-touch",
     "href": "index.html#get-in-touch",
-    "title": "BAD Ecology Lab",
+    "title": ".",
     "section": "Get in Touch",
     "text": "Get in Touch\nInterested in joining the lab or collaborating? Visit Contact for details."
   },

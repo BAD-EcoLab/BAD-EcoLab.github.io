@@ -7,3 +7,20 @@
 .callout-note {
   font-size: 0.95em;
 }
+
+/* Adjust the title banner's height & title font size*/
+.quarto-title-block .quarto-title-banner {
+  padding-top: 11rem;
+  padding-bottom: 4rem;
+}
+.quarto-title-block .quarto-title-banner h1.title {
+  font-size: 1rem;
+}
+
+/* Dark gradient overlay so the title text stays readable over the photo */
+/*.quarto-title-block .quarto-title-banner {
+/*  background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.55)),
+    url("images/banner.jpg");
+  background-size: cover;
+  background-position: center}*/
+}
