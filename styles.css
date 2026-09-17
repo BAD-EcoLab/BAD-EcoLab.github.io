@@ -23,4 +23,41 @@
     url("images/banner.jpg");
   background-size: cover;
   background-position: center}*/
+
+/* --- People page -------------------------------------------------------- */
+/* Vertical breathing room between each person's grid block. */
+.grid.person {
+  margin-bottom: 2.5rem;
+}
+
+/* --- Photo Gallery carousel --------------------------------------------- */
+/* Lock every slide to the same shape so the page doesn't jump between
+   photos of differing dimensions. Change the aspect-ratio to taste. */
+#lab-gallery .carousel-item img {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+/* Bootstrap hides carousel captions below the md breakpoint; show them at
+   every width, and add a scrim so text stays readable over bright photos. */
+#lab-gallery .carousel-caption {
+  display: block;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 2.5rem 1.5rem 1rem;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.65));
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+#lab-gallery .carousel-caption p {
+  margin-bottom: 0;
+}
+
+/* Dim the indicator strip so it reads against light photos. */
+#lab-gallery .carousel-indicators {
+  margin-bottom: 0.5rem;
 }

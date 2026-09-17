@@ -4,7 +4,7 @@ title: "People"
 
 ## Principal Investigator
 
-::: {.grid}
+::: {.grid .person}
 
 ::: {.g-col-12 .g-col-md-3}
 ![](images/ZackHeadshot.jpeg){.img-fluid style="border-radius: 8px;"}
@@ -19,14 +19,14 @@ Zack is a Research Ecologist with the Forest Service, Rocky Mountain Research St
 Email: zachary.steel[at]usda.gov &nbsp;·&nbsp;
 <!-- [Email](mailto:you@university.edu) &nbsp;·&nbsp; -->
 [Google Scholar](https://scholar.google.com/citations?user=HQaJ7J0AAAAJ&hl=en&oi=sra) &nbsp;·&nbsp;
-[Forest Service Profile](https://research.fs.usda.gov/about/people/zachary.steel) &nbsp;·&nbsp;
+[Forest Service Profile](https://research.fs.usda.gov/about/people/zachary.steel)
 :::
 
 :::
 
 ## Current Researchers
 
-::: {.grid}
+::: {.grid .person}
 
 ::: {.g-col-12 .g-col-md-3}
 ![](images/placeholder-headshot.png){.img-fluid style="border-radius: 8px;"}
@@ -39,7 +39,9 @@ Email: zachary.steel[at]usda.gov &nbsp;·&nbsp;
 [A few sentences on their project or research interests.]
 :::
 
-::: {.grid}
+:::
+
+::: {.grid .person}
 
 ::: {.g-col-12 .g-col-md-3}
 ![](images/placeholder-headshot.png){.img-fluid style="border-radius: 8px;"}
@@ -54,11 +56,31 @@ Email: zachary.steel[at]usda.gov &nbsp;·&nbsp;
 
 :::
 
-*Copy the block above for each additional student, postdoc, or staff member.*
+<!-- TEMPLATE: copy this whole block for each additional student, postdoc, or
+     staff member. Keep the four ::: fences balanced — every ::: that opens a
+     div needs its own closing :::, and the blank line before each closing
+     ::: matters.
+
+::: {.grid .person}
+
+::: {.g-col-12 .g-col-md-3}
+![](images/placeholder-headshot.png){.img-fluid style="border-radius: 8px;"}
+:::
+
+::: {.g-col-12 .g-col-md-9}
+### Full Name
+**Position** (started YEAR)
+
+[A few sentences on their project or research interests.]
+:::
+
+:::
+
+-->
 
 ## Lab Alumni
 
-::: {.grid}
+::: {.grid .person}
 
 ::: {.g-col-12 .g-col-md-3}
 ![](images/placeholder-headshot.png){.img-fluid style="border-radius: 8px;"}
@@ -67,5 +89,6 @@ Email: zachary.steel[at]usda.gov &nbsp;·&nbsp;
 ::: {.g-col-12 .g-col-md-9}
 ### Merijn van den Bosch
 **Postdoctoral Researcher** - now [current position]
+:::
 
 :::
