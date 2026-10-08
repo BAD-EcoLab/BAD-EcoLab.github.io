@@ -4,9 +4,7 @@ title: "Research"
 
 ## Overview
 
-[Describe your lab's overarching research program in 2-3 sentences. What
-questions does the lab ask, and what systems/methods does it use to answer
-them?]
+Our research focuses on understanding how biodiversity and ecosystem function respond to natural and anthropogenic disturbances, including fire, drought, and land use change. We use a combination of field studies, spatial analyses, and modeling approaches to address questions related to wildlife response to change, forest resilience, and biodiversity conservation in the face of global change. Our work is motivated by the need to inform management and policy decisions that promote sustainable ecosystems and biodiversity conservation.
 
 ## Research Area 1: Disturbance impacts on wildlife
 
