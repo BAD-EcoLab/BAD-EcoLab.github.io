@@ -31,7 +31,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, theme.scss]
     css: styles.css
     toc: false
     grid:
