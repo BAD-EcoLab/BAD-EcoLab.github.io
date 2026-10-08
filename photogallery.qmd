@@ -6,7 +6,8 @@ filters:
 # entry here simply shows no caption. The caption is also used as the image's
 # alt text for screen readers, so it is worth filling these in.
 slideshow-captions:
-  ICB_Variability.jpg: "Structural variability in a mixed-severity fire landscape, Illilouette Creek Basin, Yosemite National Park."
+  ICB_Variability.jpg: "A pyrodiverse landscape in Illilouette Creek Basin, Yosemite National Park"
+  Crew2024.jpg: "2024 Colorado fires field crew"
 ---
 
 Scenes from the field, the lab, and everywhere in between.
