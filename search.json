@@ -42,32 +42,32 @@
     "text": "[Describe your lab’s overarching research program in 2-3 sentences. What questions does the lab ask, and what systems/methods does it use to answer them?]"
   },
   {
-    "objectID": "research.html#research-area-1-title",
-    "href": "research.html#research-area-1-title",
+    "objectID": "research.html#research-area-1-disturbance-impacts-on-wildlife",
+    "href": "research.html#research-area-1-disturbance-impacts-on-wildlife",
     "title": "Research",
-    "section": "Research Area 1: [Title]",
-    "text": "Research Area 1: [Title]\n[Description of this research theme. Add a photo or figure if you have one:]"
+    "section": "Research Area 1: Disturbance impacts on wildlife",
+    "text": "Research Area 1: Disturbance impacts on wildlife\nOur ecosystems are dynamic and constantly changing, and disturbances such as wildfire, insect outbreaks, active management, and drought can have important impacts on wildlife populations. We study how these disturbances impact biodiversity, wildlife community composition, and species occurrence, with a focus on understanding the mechanisms driving these changes. By integrating field observations, remote sensing data, and ecological modeling, we aim to inform conservation strategies that enhance ecosystem resilience and biodiversity."
   },
   {
-    "objectID": "research.html#research-area-2-title",
-    "href": "research.html#research-area-2-title",
+    "objectID": "research.html#research-area-2-forest-and-fire-ecology",
+    "href": "research.html#research-area-2-forest-and-fire-ecology",
     "title": "Research",
-    "section": "Research Area 2: [Title]",
-    "text": "Research Area 2: [Title]\n[Description of this research theme.]"
+    "section": "Research Area 2: Forest and Fire Ecology",
+    "text": "Research Area 2: Forest and Fire Ecology\nFire across the globe and the western United States is changing in frequency, severity, and extent. We study how fire regimes are changing across western forests, how ecosystems recover from (or don’t) severe disturbance, and how these changes impact wildlife populations. This work emphasizes landscape ecology concepts including the pyrodiversity hypothesis that posits varied fire patterns support biodiversity through the creation of varied ecological niches across space and time."
   },
   {
-    "objectID": "research.html#research-area-3-title",
-    "href": "research.html#research-area-3-title",
+    "objectID": "research.html#research-area-3-global-change-and-biodiversity-trends",
+    "href": "research.html#research-area-3-global-change-and-biodiversity-trends",
     "title": "Research",
-    "section": "Research Area 3: [Title]",
-    "text": "Research Area 3: [Title]\n[Description of this research theme.]"
+    "section": "Research Area 3: Global change and biodiversity trends",
+    "text": "Research Area 3: Global change and biodiversity trends\nBiodiversity of many taxa and geographies are in decline due to a combination of local and global threats. We seek to quantify how, where and for whom declines are occurring using long-term monitoring data, citizen science data, and remote sensing data. We also seek to understand the mechanisms driving these declines and their geographic patterns across North America."
   },
   {
-    "objectID": "research.html#funding",
-    "href": "research.html#funding",
+    "objectID": "research.html#research-area-4-innovative-wildlife-monitoring-methods",
+    "href": "research.html#research-area-4-innovative-wildlife-monitoring-methods",
     "title": "Research",
-    "section": "Funding",
-    "text": "Funding\nList current and past grants supporting the lab’s work, e.g.:\n\n[Funding Agency], [Grant Title], [Award Number], [Years]"
+    "section": "Research Area 4: Innovative wildlife monitoring methods",
+    "text": "Research Area 4: Innovative wildlife monitoring methods"
   },
   {
     "objectID": "people.html",
@@ -88,7 +88,7 @@
     "href": "people.html#current-researchers",
     "title": "People",
     "section": "Current Researchers",
-    "text": "Current Researchers\n\n\n\n\n\nLeah McTigue\nResearch Associate (started 2023)\n[A few sentences on their project or research interests.]\n\n\n\n\n\n\n\nHailey Boone\nPostdoctoral Researcher (started 2025)\n[A few sentences on their project or research interests.]"
+    "text": "Current Researchers\n\n\n\n\n\nLeah McTigue\nResearch Associate (started 2023)\n[A few sentences on their project or research interests.]\n\n\n\n\n\n\n\nHailey Boone\nPostdoctoral Researcher (started 2025)\n[A few sentences on their project or research interests.]\n\n\n\n\n\n\n\nEllie Bolas\nPostdoctoral Researcher (started 2026)\n[A few sentences on their project or research interests.]"
   },
   {
     "objectID": "people.html#lab-alumni",
