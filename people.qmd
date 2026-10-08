@@ -14,7 +14,7 @@ title: "People"
 ### Zack Steel
 **Principal Investigator**
 
-Zack is a Research Ecologist with the Forest Service, Rocky Mountain Research Station in Fort Collins, CO and an Affiliate Faculty at Colorado State University. He is interested all things forest disturbance, and wildlife, especially western forests, birds, and bats.    
+Zack is a Research Ecologist with the Forest Service, Rocky Mountain Research Station in Fort Collins, CO and an Affiliate Faculty at Colorado State University. He is interested all things forest disturbance, and wildlife, especially western forests, birds, and bats.     
 
 Email: zachary.steel[at]usda.gov &nbsp;·&nbsp;
 <!-- [Email](mailto:you@university.edu) &nbsp;·&nbsp; -->
@@ -50,6 +50,21 @@ Email: zachary.steel[at]usda.gov &nbsp;·&nbsp;
 ::: {.g-col-12 .g-col-md-9}
 ### Hailey Boone
 **Postdoctoral Researcher** (started 2025)
+
+[A few sentences on their project or research interests.]
+:::
+
+:::
+
+::: {.grid .person}
+
+::: {.g-col-12 .g-col-md-3}
+![](images/placeholder-headshot.png){.img-fluid style="border-radius: 8px;"}
+:::
+
+::: {.g-col-12 .g-col-md-9}
+### Ellie Bolas
+**Postdoctoral Researcher** (started 2026)
 
 [A few sentences on their project or research interests.]
 :::

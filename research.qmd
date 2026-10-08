@@ -4,26 +4,28 @@ title: "Research"
 
 ## Overview
 
-[Describe your lab's overarching research program in 2-3 sentences. What
-questions does the lab ask, and what systems/methods does it use to answer
-them?]
+Our research focuses on understanding how biodiversity and ecosystem function respond to natural and anthropogenic disturbances, including fire, drought, and land use change. We use a combination of field studies, spatial analyses, and modeling approaches to address questions related to wildlife response to change, forest resilience, and biodiversity conservation in the face of global change. Our work is motivated by the need to inform management and policy decisions that promote sustainable ecosystems and biodiversity conservation.
 
-## Research Area 1: [Title]
+## Research Area 1: Disturbance impacts on wildlife
 
-[Description of this research theme. Add a photo or figure if you have one:]
+Our ecosystems are dynamic and constantly changing, and disturbances such as wildfire, insect outbreaks, active management, and drought can have important impacts on wildlife populations. We study how these disturbances impact biodiversity, wildlife community composition, and species occurrence, with a focus on understanding the mechanisms driving these changes. By integrating field observations, remote sensing data, and ecological modeling, we aim to inform conservation strategies that enhance ecosystem resilience and biodiversity.
 
 <!-- ![Caption describing the figure](images/research1.jpg) -->
 
-## Research Area 2: [Title]
+## Research Area 2: Forest and Fire Ecology
 
-[Description of this research theme.]
+Fire across the globe and the western United States is changing in frequency, severity, and extent. We study how fire regimes are changing across western forests, how ecosystems recover from (or don't) severe disturbance, and how these changes impact wildlife populations. This work emphasizes landscape ecology concepts including the pyrodiversity hypothesis that posits varied fire patterns support biodiversity through the creation of varied ecological niches across space and time. 
 
-## Research Area 3: [Title]
+## Research Area 3: Global change and biodiversity trends
 
-[Description of this research theme.]
+Biodiversity of many taxa and geographies are in decline due to a combination of local and global threats. We seek to quantify how, where and for whom declines are occurring using long-term monitoring data, citizen science data, and remote sensing data. We also seek to understand the mechanisms driving these declines and their geographic patterns across North America. 
 
-## Funding
+## Research Area 4: Innovative wildlife monitoring methods
 
-*List current and past grants supporting the lab's work, e.g.:*
 
-- **[Funding Agency]**, [Grant Title], [Award Number], [Years]
+
+<!-- ## Funding -->
+
+<!-- *List current and past grants supporting the lab's work, e.g.:* -->
+
+<!-- - **[Funding Agency]**, [Grant Title], [Award Number], [Years] -->
