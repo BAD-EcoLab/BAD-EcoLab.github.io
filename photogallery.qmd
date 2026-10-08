@@ -33,7 +33,7 @@ Scenes from the field, the lab, and everywhere in between.
 <div class="carousel-inner">
 
 <div class="carousel-item active">
-<img src="images/ICB_Variability.jpg" class="d-block w-100" alt="Mixed-severity fire mosaic across a western forest landscape">
+<img src="images/ICB_Variability.jpg" class="d-block w-100" alt="A pyrodiverse landscape in the Illiloutte Creek Basin of Yosemite National Park">
 <div class="carousel-caption">
 <p>Structural variability in a mixed-severity fire landscape.</p>
 </div>
