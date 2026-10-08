@@ -1,0 +1,15 @@
+/*-- scss:defaults --*/
+
+// Forest green replaces cosmo's default blue (#2780e3) as the site's theme
+// colour. Bootstrap derives the navbar background, link colour, buttons,
+// focus rings and the active nav item from $primary, so setting it here is
+// enough - nothing in styles.css needs to hard-code a colour.
+//
+// #1b5e20 gives white navbar text a 7.9:1 contrast ratio (WCAG AA needs 4.5,
+// AAA needs 7), and the same green on white body background for links.
+// For a lighter, brighter green swap in #2e7d32 (5.1:1, still AA).
+$primary: #1b5e20;
+
+// Quarto's note callout is hard-wired to blue, which would be the one piece
+// of the old palette left behind. Point it at the theme colour instead.
+$callout-color-note: $primary;

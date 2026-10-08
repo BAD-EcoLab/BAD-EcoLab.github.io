@@ -1,64 +1,30 @@
 ---
 title: "Photo Gallery"
+filters:
+  - _slideshow.lua
+# Captions are optional and keyed by exact filename. Any photo without an
+# entry here simply shows no caption. The caption is also used as the image's
+# alt text for screen readers, so it is worth filling these in.
+slideshow-captions:
+  ICB_Variability.jpg: "Structural variability in a mixed-severity fire landscape, Illilouette Creek Basin, Yosemite National Park."
 ---
 
 Scenes from the field, the lab, and everywhere in between.
 
 <!-- ===================================================================
-     SLIDESHOW
-     Built with the Bootstrap carousel that already ships with the site
-     theme - no Quarto extension or R package required.
+     The slideshow below is built automatically from every image in
+     images/slideshow/ — to add a photo, drop the file in that folder and
+     push. Nothing on this page needs editing.
 
-     TO ADD A PHOTO:
-       1. Drop the image file into the images/ folder.
-       2. Copy one <div class="carousel-item"> ... </div> block below,
-          paste it inside <div class="carousel-inner">, and update the
-          src, alt, and caption. Remove the word "active" from the copy -
-          exactly one slide may be "active".
-       3. Add one more <button> to <div class="carousel-indicators">,
-          incrementing data-bs-slide-to (0, 1, 2, ...).
+     To caption a photo, add a line under slideshow-captions above using
+     the exact filename.
 
-     data-bs-interval is the autoplay delay in milliseconds. Delete the
-     data-bs-ride attribute entirely if you would rather it not autoplay.
+     The running order is shuffled fresh on every page load.
      =================================================================== -->
 
 ::: {.column-page}
 
-<div id="lab-gallery" class="carousel slide" data-bs-ride="carousel" data-bs-interval="6000">
-
-<div class="carousel-indicators">
-<button type="button" data-bs-target="#lab-gallery" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-</div>
-
-<div class="carousel-inner">
-
-<div class="carousel-item active">
-<img src="images/ICB_Variability.jpg" class="d-block w-100" alt="A pyrodiverse landscape in the Illiloutte Creek Basin of Yosemite National Park">
-<div class="carousel-caption">
-<p>Structural variability in a mixed-severity fire landscape.</p>
-</div>
-</div>
-
-<!-- Copy from here ...
-<div class="carousel-item">
-<img src="images/your-photo.jpg" class="d-block w-100" alt="Short description of the photo for screen readers">
-<div class="carousel-caption">
-<p>Your caption here.</p>
-</div>
-</div>
-... to here. -->
-
-</div>
-
-<button class="carousel-control-prev" type="button" data-bs-target="#lab-gallery" data-bs-slide="prev">
-<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-<span class="visually-hidden">Previous</span>
-</button>
-<button class="carousel-control-next" type="button" data-bs-target="#lab-gallery" data-bs-slide="next">
-<span class="carousel-control-next-icon" aria-hidden="true"></span>
-<span class="visually-hidden">Next</span>
-</button>
-
-</div>
+::: {#lab-slideshow}
+:::
 
 :::
