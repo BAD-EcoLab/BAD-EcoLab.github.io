@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Projects"
 filters:
   - _projects.lua
 ---
@@ -30,29 +30,35 @@ Our research focuses on understanding how biodiversity and ecosystem function re
 
 ::: {#research-projects}
 
-### Disturbance impacts on wildlife {#wildlife-disturbance short="Wildlife & disturbance"}
+### Colorado Fires & Wildlife {#wildlife-disturbance short="Wildlife & disturbance"}
 
 ![A black bear on a trail camera](images/slideshow/Bear_20260809.jpg)
 
-Our ecosystems are dynamic and constantly changing, and disturbances such as wildfire, insect outbreaks, active management, and drought can have important impacts on wildlife populations. We study how these disturbances impact biodiversity, wildlife community composition, and species occurrence, with a focus on understanding the mechanisms driving these changes. By integrating field observations, remote sensing data, and ecological modeling, we aim to inform conservation strategies that enhance ecosystem resilience and biodiversity.
+[Leah please fill in a description here]
 
-### Forest and fire ecology {#fire-ecology short="Forest & fire ecology"}
+### Fire Ecology and Forest Resilience {#fire-ecology short="Forest & fire ecology"}
 
 ![A pyrodiverse landscape in Illilouette Creek Basin, Yosemite National Park](images/ICB_Variability.jpg)
 
-Fire across the globe and the western United States is changing in frequency, severity, and extent. We study how fire regimes are changing across western forests, how ecosystems recover from (or don't) severe disturbance, and how these changes impact wildlife populations. This work emphasizes landscape ecology concepts including the pyrodiversity hypothesis that posits varied fire patterns support biodiversity through the creation of varied ecological niches across space and time.
+[Zack will complete this one]
 
 ### Global change and biodiversity trends {#biodiversity-trends short="Biodiversity trends"}
 
 ![Field camp in a montane meadow](images/slideshow/CFSC_ASCC_camp2.jpg)
 
-Biodiversity of many taxa and geographies are in decline due to a combination of local and global threats. We seek to quantify how, where and for whom declines are occurring using long-term monitoring data, citizen science data, and remote sensing data. We also seek to understand the mechanisms driving these declines and their geographic patterns across North America.
+[Zack will fill in this one w/ text from Hailey about IUCN]
 
-### Innovative wildlife monitoring methods {#wildlife-monitoring short="Wildlife monitoring"}
+### Drought impacts on wildlife {#wildlife-monitoring short="Wildlife monitoring"}
 
 ![A deer on a trail camera](images/slideshow/IMG_0048.JPG)
 
-[A paragraph describing this project.]
+[We can all help on this one. Does someone want take a first crack at it?]
+
+### Forest management and western birds {#wildlife-monitoring short="Wildlife monitoring"}
+
+![A deer on a trail camera](images/slideshow/IMG_0048.JPG)
+
+[Hailey, can you take a first crack at this one?]
 
 :::
 

@@ -13,7 +13,7 @@ website:
       - href: people.qmd
         text: People
       - href: research.qmd
-        text: Research
+        text: Projects
       - href: publications.qmd
         text: Publications
       # - href: news.qmd
