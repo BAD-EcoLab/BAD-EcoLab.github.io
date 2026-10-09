@@ -41,6 +41,9 @@ You only need to do steps 1, 3, and 5 once. After that, every push to
 - To add a publication, add a new entry to `references.bib` — the
   Publications page rebuilds itself from that file.
 - To add a lab member, copy an existing entry block in `people.qmd`.
+- To add a research project, copy a project block in `research.qmd` (a `###`
+  heading, one image, and a paragraph). Each project becomes a clickable
+  tile; the comment at the top of the Projects section lists the options.
 - Put photos in the `images/` folder and reference them as
   `images/yourfile.jpg`.
 - Site-wide settings (navbar links, title, theme) live in `_quarto.yml`.
