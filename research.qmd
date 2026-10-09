@@ -30,15 +30,15 @@ Our research focuses on understanding how biodiversity and ecosystem function re
 
 ::: {#research-projects}
 
-### Colorado Fires & Wildlife {#wildlife-disturbance short="Wildlife & disturbance"}
+### Colorado Fires and Wildlife {#wildlife-COFires short="Colorado Fires & Wildlife"}
 
 ![A black bear on a trail camera](images/slideshow/Bear_20260809.jpg)
 
 [Leah please fill in a description here]
 
-### Fire Ecology and Forest Resilience {#fire-ecology short="Forest & fire ecology"}
+### Fire Ecology and Forest Resilience {#fire-ecology short="Fire & Forests"}
 
-![A pyrodiverse landscape in Illilouette Creek Basin, Yosemite National Park](images/ICB_Variability.jpg)
+![Illilouette Creek Basin, Yosemite National Park](images/ICB_Variability.jpg)
 
 [Zack will complete this one]
 
@@ -48,13 +48,13 @@ Our research focuses on understanding how biodiversity and ecosystem function re
 
 [Zack will fill in this one w/ text from Hailey about IUCN]
 
-### Drought impacts on wildlife {#wildlife-monitoring short="Wildlife monitoring"}
+### Drought and wildlife {#Drought-wildlife short="Drought and wildlife"}
 
 ![A deer on a trail camera](images/slideshow/IMG_0048.JPG)
 
 [We can all help on this one. Does someone want take a first crack at it?]
 
-### Forest management and western birds {#wildlife-monitoring short="Wildlife monitoring"}
+### Forest management & western birds {#Management-birds short="Forest management & western birds"}
 
 ![A deer on a trail camera](images/slideshow/IMG_0048.JPG)
 
