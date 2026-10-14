@@ -103,12 +103,16 @@ Email: jane.doe\[at\]university.edu &nbsp;·&nbsp; [Google Scholar](https://scho
 
 ::::: {.grid .person}
 ::: {.g-col-12 .g-col-md-3}
-![](images/placeholder-headshot.png){.img-fluid style="border-radius: 8px;"}
+![](images/Merijn.jpg){.img-fluid style="border-radius: 8px;"}
 :::
 
 ::: {.g-col-12 .g-col-md-9}
 ### Merijn van den Bosch
 
-**Postdoctoral Researcher** - now \[current position\]
+**Postdoctoral Researcher** 
+
+Merijn's worked as a postdoctoral research scientist at Colorado State University, in collaboration with the U.S Forest Service, studying the effects of climate-change induced drought on biodiversity. Currently, Merijn is a postdoctoral research scientist at Michigan State University, where he studies the ecology and management of Gray wolves in the Great Lakes region of the United States. Broadly, he is interested in Wildlife conservation and in assessing and mitigating the impacts of human activity on wildlife.
+
+[Google Scholar](https://scholar.google.com/citations?user=8hpW2gMAAAAJ&hl=en&oi=ao)
 :::
 :::::
