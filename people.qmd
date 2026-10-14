@@ -16,7 +16,7 @@ title: "People"
 
 Zack is a Research Ecologist with the Forest Service, Rocky Mountain Research Station in Fort Collins, CO and an Affiliate Faculty at Colorado State University. He is interested all things forest disturbance, and wildlife, especially western forests, birds, and bats.
 
-Email: zachary.steel\[at\]usda.gov  ·  <!-- [Email](mailto:you@university.edu) &nbsp;·&nbsp; --> [Google Scholar](https://scholar.google.com/citations?user=HQaJ7J0AAAAJ&hl=en&oi=sra)  ·  [Forest Service Profile](https://research.fs.usda.gov/about/people/zachary.steel)
+Email: zachary.steel\[at\]usda.gov  ·  <!-- [Email](mailto:you@university.edu) &nbsp;·&nbsp; --> [Google Scholar](https://scholar.google.com/citations?user=HQaJ7J0AAAAJ&hl=en&oi=sra)  ·  [Forest Service Profile](https://research.fs.usda.gov/about/people/zachary.steel) <!-- &nbsp;·&nbsp; [CV](cv/zack-steel.pdf) -->
 :::
 :::::
 
@@ -24,7 +24,7 @@ Email: zachary.steel\[at\]usda.gov  ·  <!-- [Email](mailto:you@university.edu
 
 ::::: {.grid .person}
 ::: {.g-col-12 .g-col-md-3}
-![](images/Leah.jpg){.img-fluid style="border-radius: 8px;"}
+![](images/Leah.JPG){.img-fluid style="border-radius: 8px;"}
 :::
 
 ::: {.g-col-12 .g-col-md-9}
@@ -72,6 +72,13 @@ Email: leah.mctigue\[at\]colostate.edu  ·  [Google Scholar](https://scholar.g
      div needs its own closing :::, and the blank line before each closing
      ::: matters.
 
+     Image paths are case-sensitive on the live site: images/Jane.JPG and
+     images/Jane.jpg are different files there, even though they look the same
+     on a Mac. Type the filename exactly as it appears in the images/ folder.
+
+     The links line is optional. To link a CV, put the PDF in the cv/ folder
+     (lowercase name, e.g. cv/jane-doe.pdf) and add [CV](cv/jane-doe.pdf).
+
 ::: {.grid .person}
 
 ::: {.g-col-12 .g-col-md-3}
@@ -83,6 +90,8 @@ Email: leah.mctigue\[at\]colostate.edu  ·  [Google Scholar](https://scholar.g
 **Position** (started YEAR)
 
 [A few sentences on their project or research interests.]
+
+Email: jane.doe\[at\]university.edu &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com/) &nbsp;·&nbsp; [CV](cv/jane-doe.pdf)
 :::
 
 :::
