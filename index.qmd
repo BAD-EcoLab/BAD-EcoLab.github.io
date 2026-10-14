@@ -24,7 +24,7 @@ We are the Biodiversity and Disturbance Lab affiliated with the Forest Service R
 
 <!-- See the [News](news.qmd) page for the full list. -->
 
-## Get in Touch
+<!-- ## Get in Touch -->
 
-Interested in joining the lab or collaborating? Visit [Contact](contact.qmd)
-for details.
+<!-- Interested in joining the lab or collaborating? Visit [Contact](contact.qmd) -->
+<!-- for details. -->

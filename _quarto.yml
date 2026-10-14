@@ -20,8 +20,8 @@ website:
       #   text: News
       - href: photogallery.qmd
         text: Photo Gallery
-      - href: contact.qmd
-        text: Contact
+      # - href: contact.qmd
+      #   text: Contact
     right:
       - icon: github
         href: https://github.com/BAD-EcoLab
