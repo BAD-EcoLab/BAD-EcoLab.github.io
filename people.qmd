@@ -16,7 +16,7 @@ title: "People"
 
 Zack is a Research Ecologist with the Forest Service, Rocky Mountain Research Station in Fort Collins, CO and an Affiliate Faculty at Colorado State University. He is interested all things forest disturbance, and wildlife, especially western forests, birds, and bats.
 
-Email: zachary.steel\[at\]usda.gov  ·  <!-- [Email](mailto:you@university.edu) &nbsp;·&nbsp; --> [Google Scholar](https://scholar.google.com/citations?user=HQaJ7J0AAAAJ&hl=en&oi=sra)  ·  [Forest Service Profile](https://research.fs.usda.gov/about/people/zachary.steel) <!-- &nbsp;·&nbsp; [CV](cv/zack-steel.pdf) -->
+Email: zachary.steel\[at\]usda.gov  ·  <!-- [Email](mailto:you@university.edu) &nbsp;·&nbsp; --> [Google Scholar](https://scholar.google.com/citations?user=HQaJ7J0AAAAJ&hl=en&oi=sra)  ·  [Forest Service Profile](https://research.fs.usda.gov/about/people/zachary.steel)  ·  [CV](cv/Steel-CV.pdf) 
 :::
 :::::
 

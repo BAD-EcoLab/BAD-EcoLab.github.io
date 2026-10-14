@@ -34,7 +34,7 @@ Our research focuses on understanding how biodiversity and ecosystem function re
 
 ![A black bear on a trail camera](images/slideshow/Bear_20260809.jpg)
 
-[Leah please fill in a description here]
+The 2020 wildfire season was record breaking across the world, with over 50,000 wildfires reported in the US alone. These fires are emblematic of changing fire regimes, with large severe fires becoming more frequent. Wildlife response to fire is often variable, highlighting the need to understand species response to changing fire regimes. We deploy Automated Acoustic Recording Units (ARUs) and camera traps to survey wildlife communities across three historic fires that burned in the Southern Rocky Mountains: the Cameron Peak, Mullen, and East Troublesome fires. Our work using camera traps to assess terrestrial mammal use of these burned areas is currently in review. Analyses using acoustic data to assess bird and bat responses are ongoing - stay tuned. 
 
 ### Fire Ecology and Forest Resilience {#fire-ecology short="Fire & Forests"}
 
