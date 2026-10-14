@@ -41,11 +41,16 @@ You only need to do steps 1, 3, and 5 once. After that, every push to
 - To add a publication, add a new entry to `references.bib` — the
   Publications page rebuilds itself from that file.
 - To add a lab member, copy an existing entry block in `people.qmd`.
+- To link someone's CV, put the PDF in the `cv/` folder (e.g.
+  `cv/jane-doe.pdf`) and add `[CV](cv/jane-doe.pdf)` to the links line
+  of their entry in `people.qmd`. CV links are optional.
 - To add a research project, copy a project block in `research.qmd` (a `###`
   heading, one image, and a paragraph). Each project becomes a clickable
   tile; the comment at the top of the Projects section lists the options.
 - Put photos in the `images/` folder and reference them as
-  `images/yourfile.jpg`.
+  `images/yourfile.jpg`. File paths are case-sensitive on the live site
+  (`Photo.JPG` ≠ `Photo.jpg`), even though a Mac preview treats them the
+  same, so type the name exactly as it appears in the folder.
 - Site-wide settings (navbar links, title, theme) live in `_quarto.yml`.
 
 Once you edit and push, GitHub Actions rebuilds and redeploys the site
