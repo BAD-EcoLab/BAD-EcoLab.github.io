@@ -56,9 +56,19 @@ The 2020 wildfire season was record breaking across the world, with over 50,000 
 
 ### Forest management & western birds {#Management-birds short="Forest management & western birds"}
 
-![A deer on a trail camera](images/slideshow/IMG_0048.JPG)
+![A deer on a trail camera](images/PIJA_painting.png)
 
-[Hailey, can you take a first crack at this one?]
+Active forest management is practiced across US forests to achieve many objectives including reducing wildfire hazard, timber production, and wildlife habitat management. Understanding how these actions influence animal communities is important for successful multi-use management of public lands and wildlife conservation. To this end, we are conducting multiple projects investigating biodiversity response to forest treatments.
+
+*Adaptive Silviculture for Climate Change (ASCC)*  
+As part of a long-term manipulative experiment we are testing how wildlife respond to three forest management strategies (i.e., resistance, resilience, and transition) across three distinct forest types in Colorado. We use acoustic recording units (ARUs) and remote cameras survey birds, bats, and terrestrial mammals within experimental units. To date, we have completed pre-treatment surveys and are beginning to test the immediate effects of different levels of tree removal. In the years to come we will examine long-term wildlife responses to changes in forest structure, composition, and succession. 
+
+*Western birds’ response to forest treatments*  
+In collaboration with researchers at the Cornell Lab of Ornithology and Colorado State University, we investigated how 103 birds across the western United States responded to four common forest treatment types (prescribed fire, thinning, mastication, and clearcuts), as well as how responses vary by the extent of treatment across the landscape and time since treatment. Findings from this work are currently under review and we are excited to share implications for western forest and wildlife management soon.  
+
+*Pinyon jay response to vegetation treatments*  
+The pinyon jay is an important mutualistic species with pinyon pine species in the US southwest. The jay has also suffered a dramatic decades-long decline. This trend has spurred intensive interest in improving our understanding of pinyon jay ecology and in developing a conservation strategy to arrest population declines. To aid in this effort we used eBird participatory science data and broad-scale vegetation treatment data to assess how jays are affected by common treatment types (i.e., prescribed fire, thinning, and mastication), how these effects vary across seasons, time since treatment, and across baseline habitat conditions. This work is currently in review for publication.
+
 
 :::
 
