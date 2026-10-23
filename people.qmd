@@ -40,7 +40,7 @@ Email: leah.mctigue\[at\]colostate.edu  ·  [Google Scholar](https://scholar.g
 
 ::::: {.grid .person}
 ::: {.g-col-12 .g-col-md-3}
-![](images/placeholder-headshot.png){.img-fluid style="border-radius: 8px;"}
+![](images/Hailey.jpg){.img-fluid style="border-radius: 8px;"}
 :::
 
 ::: {.g-col-12 .g-col-md-9}
@@ -50,7 +50,7 @@ Email: leah.mctigue\[at\]colostate.edu  ·  [Google Scholar](https://scholar.g
 
 Hailey is a postdoctoral researcher with Colorado State University Warner College of Natural Resources, Forest and Rangeland Stewardship and with the U.S Forest Service Rocky Mountain Research Station in Fort Collins. She received her doctoral degree from Michigan State University in 2024, with a dissertation on Moose and wolf dynamics and their response to park recreation visitation in Isle Royale National Park. She received her master’s degree investigating predator-prey dynamics centered around white-tailed deer fawns from North Carolina State University in 2019. She is interested in wildlife response to anthropogenic-related disturbances, especially for large mammal species, but is currently warming up to birds. 
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=T_Hc5g0AAAAJ)
+Email: hailey.boone@colostate.edu  ·  [Google Scholar](https://scholar.google.com/citations?hl=en&user=T_Hc5g0AAAAJ)  ·  [CV](cv/Boone CV Jan 2025.docx)
 :::
 :::::
 
