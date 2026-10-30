@@ -12,9 +12,9 @@ page-layout: article
 
 We are the Biodiversity and Disturbance Lab affiliated with the Forest Service Rocky Mountain Research Station and Colorado State University. Our research focuses on understanding how biodiversity and ecosystem function respond to natural and anthropogenic disturbances, including fire, drought, and land use change. We use a combination of field studies, spatial analyses, and modeling approaches to address questions related to wildlife response to change, forest resilience, and biodiversity conservation in the face of global change. Our work is motivated by the need to inform management and policy decisions that promote sustainable ecosystems and biodiversity conservation.
 
-::: {.callout-note}
-## This website is under construction
-:::
+<!-- ::: {.callout-note} -->
+<!-- ## This website is under construction -->
+<!-- ::: -->
 
 ## Recent News & Upcoming Events
 
@@ -24,7 +24,7 @@ We are the Biodiversity and Disturbance Lab affiliated with the Forest Service R
 
 <!-- See the [News](news.qmd) page for the full list. -->
 
-<!-- ## Get in Touch -->
+## Opportunities
 
-<!-- Interested in joining the lab or collaborating? Visit [Contact](contact.qmd) -->
-<!-- for details. -->
+Interested in joining the lab? Visit [Opportunities](contact.qmd)
+for details.

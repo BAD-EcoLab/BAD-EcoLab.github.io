@@ -12,16 +12,16 @@ website:
         text: Home
       - href: people.qmd
         text: People
-      - href: research.qmd
-        text: Projects
-      - href: publications.qmd
-        text: Publications
+      # - href: research.qmd
+      #   text: Projects
+      # - href: publications.qmd
+      #   text: Publications
       # - href: news.qmd
       #   text: News
       - href: photogallery.qmd
         text: Photo Gallery
-      # - href: contact.qmd
-      #   text: Contact
+      - href: contact.qmd
+        text: Opportunities
     right:
       - icon: github
         href: https://github.com/BAD-EcoLab

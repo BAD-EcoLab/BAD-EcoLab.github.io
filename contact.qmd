@@ -1,19 +1,18 @@
 ---
-title: "Contact"
+title: "Opportunities"
 ---
 
-## Address
+## Postdoctoral Opportunities
 
-[Department Name]\
-[University Name]\
-[Street Address]\
-[City, State ZIP]
+We are currently recruiting for two postdoctoral positions. Both will be employed through Colorado State University but work closely with the US Forest Service Rocky Mountain Research Station in Fort Collins, Colorado. 
 
-## Email
+1) Ungulate and fire ecology - go here to apply
 
-[you@university.edu](mailto:you@university.edu)
+Position summary: We are hiring a postdoc to join a collaboration between USFS Rocky Mountain Research Station (Mark Ditmer and Zack Steel), Colorado State University (George Wittemyer and Ellie Bolas), the Rocky Mountain Elk Foundation, Utah DWR, and BYU studying several questions related to fire and ungulates in central Utah. The project includes GPS data from over 100 deer and elk, camera data (predator detections) from across the region, and this region has experienced 5+ fires in the last 20 years. The applicant will be focusing on research on deer habitat selection in response to fire characteristics and predators, with opportunities to engage with data on reproduction, physiology, diet, or competition with elk. The applicant will also be involved in planning and overseeing field work in the summer of 2027. We are hoping to find someone based in Fort Collins or Utah who is ready to start in January. The position is set for 1.5 years, with a strong likelihood of additional funding to extend the position and additional research opportunities.
 
-## Joining the Lab
+2) Quantitative Ecologist - *the posting for this position is coming soon*
 
-[A sentence or two on whether you're recruiting students/postdocs and how
-interested applicants should reach out.]
+Position summary: We are seeking a postdoctoral researcher interested in wildlife and biodiversity conservation and the impacts of global change. The ecologist will lead projects integrating and analyzing continent-scale and long-term wildlife datasets (e.g., Breeding bird survey, NABat, SnapshotUSA, NEON). These data will be used to assess status, trends, and forecast wildlife communities and species of conservation concern with respect to global change factors such as ecological disturbance (e.g., fire and drought), land use change, and climate change. Minimum qualifications include a PhD in ecology, geography, data science, or related discipline and a desire to contribute to a positive and safe working environment. Additionally, we are particularly interested in candidates with strong programming (e.g., R, Python, BUGS, Stan), statistical (e.g., Bayesian hierarchical models), and big data skills. Candidates with a record of scientific publication are preferred. 
+
+The quantitative ecologist will be hired through the Department of Fish, Wildlife and Conservation Biology at Colorado State University (CSU) and have dual affiliations with CSU and the US Forest Service Rocky Mountain Research Station (RMRS). The individual will be supervised by Dr. Zack Steel (RMRS) and Dr. Caitlin Wells (CSU) and will collaborate closely with a network of federal and academic scientists in Colorado and across the US. 
+

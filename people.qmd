@@ -54,19 +54,19 @@ Email: hailey.boone@colostate.edu  ·  [Google Scholar](https://scholar.google
 :::
 :::::
 
-::::: {.grid .person}
-::: {.g-col-12 .g-col-md-3}
-![](images/placeholder-headshot.png){.img-fluid style="border-radius: 8px;"}
-:::
+<!-- ::::: {.grid .person} -->
+<!-- ::: {.g-col-12 .g-col-md-3} -->
+<!-- ![](images/placeholder-headshot.png){.img-fluid style="border-radius: 8px;"} -->
+<!-- ::: -->
 
-::: {.g-col-12 .g-col-md-9}
-### Ellie Bolas
+<!-- ::: {.g-col-12 .g-col-md-9} -->
+<!-- ### Ellie Bolas -->
 
-**Postdoctoral Researcher**
+<!-- **Postdoctoral Researcher** -->
 
-\[A few sentences on their project or research interests.\]
-:::
-:::::
+<!-- \[A few sentences on their project or research interests.\] -->
+<!-- ::: -->
+<!-- ::::: -->
 
 ```{=html}
 <!-- TEMPLATE: copy this whole block for each additional student, postdoc, or
