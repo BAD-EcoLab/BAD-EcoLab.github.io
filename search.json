@@ -1,31 +1,66 @@
 [
   {
+    "objectID": "photogallery.html",
+    "href": "photogallery.html",
+    "title": "Photo Gallery",
+    "section": "",
+    "text": "Scenes from the field, the lab, and everywhere in between.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2024 Colorado fires field crew\n\n\n\n\n\n\nA pyrodiverse landscape in Illilouette Creek Basin, Yosemite National Park\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrevious\n\n\nNext"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications below are generated automatically from references.bib in this repository. To add a new publication, add a new BibTeX entry to that file — no need to edit this page. Quarto will render the full list under “References” when the site rebuilds.\n\n\n\n\nReferences\n\nDoe, Jane, and Alex Lee. 2022. “A Second Example Publication.” Another Ecology Journal 8: 45–60. https://doi.org/10.xxxx/example2.\n\n\nDoe, Jane, and John Smith. 2024. “An Example Publication Title Goes Here.” Journal of Example Ecology 12 (3): 100–110. https://doi.org/10.xxxx/example."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Add new items to the top of this list.\n\n[Month Year] — [News item: paper accepted, grant awarded, new lab member, conference talk, etc.]\n[Month Year] — [News item]\n[Month Year] — [News item]"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Principal Investigator\nZack is a Research Ecologist with the Forest Service, Rocky Mountain Research Station in Fort Collins, CO and an Affiliate Faculty at Colorado State University. He is interested all things forest disturbance, and wildlife, especially western forests, birds, and bats.\nEmail: zachary.steel[at]usda.gov  ·   Google Scholar  ·  Forest Service Profile  ·  CV"
+  },
+  {
+    "objectID": "people.html#principal-investigator",
+    "href": "people.html#principal-investigator",
+    "title": "People",
+    "section": "",
+    "text": "Principal Investigator\nZack is a Research Ecologist with the Forest Service, Rocky Mountain Research Station in Fort Collins, CO and an Affiliate Faculty at Colorado State University. He is interested all things forest disturbance, and wildlife, especially western forests, birds, and bats.\nEmail: zachary.steel[at]usda.gov  ·   Google Scholar  ·  Forest Service Profile  ·  CV"
+  },
+  {
+    "objectID": "people.html#current-researchers",
+    "href": "people.html#current-researchers",
+    "title": "People",
+    "section": "Current Researchers",
+    "text": "Current Researchers\n\n\n\n\n\nLeah McTigue\nResearch Associate\nLeah is an Ecological Research Associate with Colorado State University Warner College of Natural Resources, Forest and Rangeland Stewardship and the U.S Forest Service Rocky Mountain Research Station in Fort Collins. She received her master’s degree from the University of Arkansas in 2023 on wildlife response to urbanization in Northwest Arkansas. In her current role, she is assessing the impact of the 2020 wildfire season on wildlife in the Southern Rocky Mountains, specifically looking at the Cameron Peak fire, Mullen fire, and East Troublesome fire.\nEmail: leah.mctigue[at]colostate.edu  ·  Google Scholar  ·  CV\n\n\n\n\n\n\n\nHailey Boone\nPostdoctoral Researcher\nHailey is a postdoctoral researcher with Colorado State University Warner College of Natural Resources, Forest and Rangeland Stewardship and with the U.S Forest Service Rocky Mountain Research Station in Fort Collins. She received her doctoral degree from Michigan State University in 2024, with a dissertation on Moose and wolf dynamics and their response to park recreation visitation in Isle Royale National Park. She received her master’s degree investigating predator-prey dynamics centered around white-tailed deer fawns from North Carolina State University in 2019. She is interested in wildlife response to anthropogenic-related disturbances, especially for large mammal species, but is currently warming up to birds.\nEmail: hailey.boone@colostate.edu  ·  Google Scholar  ·  CV"
+  },
+  {
+    "objectID": "people.html#lab-alumni",
+    "href": "people.html#lab-alumni",
+    "title": "People",
+    "section": "Lab Alumni",
+    "text": "Lab Alumni\n\n\n\n\n\nMerijn van den Bosch\nPostdoctoral Researcher\nMerijn’s worked as a postdoctoral research scientist at Colorado State University, in collaboration with the U.S Forest Service, studying the effects of climate-change induced drought on biodiversity. Currently, Merijn is a postdoctoral research scientist at Michigan State University, where he studies the ecology and management of Gray wolves in the Great Lakes region of the United States. Broadly, he is interested in Wildlife conservation and in assessing and mitigating the impacts of human activity on wildlife.\nGoogle Scholar"
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact",
+    "title": "Opportunities",
     "section": "",
-    "text": "[Department Name]\n[University Name]\n[Street Address]\n[City, State ZIP]"
+    "text": "We are currently recruiting for two postdoctoral positions. Both will be employed through Colorado State University but work closely with the US Forest Service Rocky Mountain Research Station in Fort Collins, Colorado.\n\nUngulate and fire ecology - go here to apply\n\nPosition summary: We are hiring a postdoc to join a collaboration between USFS Rocky Mountain Research Station (Mark Ditmer and Zack Steel), Colorado State University (George Wittemyer and Ellie Bolas), the Rocky Mountain Elk Foundation, Utah DWR, and BYU studying several questions related to fire and ungulates in central Utah. The project includes GPS data from over 100 deer and elk, camera data (predator detections) from across the region, and this region has experienced 5+ fires in the last 20 years. The applicant will be focusing on research on deer habitat selection in response to fire characteristics and predators, with opportunities to engage with data on reproduction, physiology, diet, or competition with elk. The applicant will also be involved in planning and overseeing field work in the summer of 2027. We are hoping to find someone based in Fort Collins or Utah who is ready to start in January. The position is set for 1.5 years, with a strong likelihood of additional funding to extend the position and additional research opportunities.\n\nQuantitative Ecologist - the posting for this position is coming soon\n\nPosition summary: We are seeking a postdoctoral researcher interested in wildlife and biodiversity conservation and the impacts of global change. The ecologist will lead projects integrating and analyzing continent-scale and long-term wildlife datasets (e.g., Breeding bird survey, NABat, SnapshotUSA, NEON). These data will be used to assess status, trends, and forecast wildlife communities and species of conservation concern with respect to global change factors such as ecological disturbance (e.g., fire and drought), land use change, and climate change. Minimum qualifications include a PhD in ecology, geography, data science, or related discipline and a desire to contribute to a positive and safe working environment. Additionally, we are particularly interested in candidates with strong programming (e.g., R, Python, BUGS, Stan), statistical (e.g., Bayesian hierarchical models), and big data skills. Candidates with a record of scientific publication are preferred.\nThe quantitative ecologist will be hired through the Department of Fish, Wildlife and Conservation Biology at Colorado State University (CSU) and have dual affiliations with CSU and the US Forest Service Rocky Mountain Research Station (RMRS). The individual will be supervised by Dr. Zack Steel (RMRS) and Dr. Caitlin Wells (CSU) and will collaborate closely with a network of federal and academic scientists in Colorado and across the US."
   },
   {
-    "objectID": "contact.html#address",
-    "href": "contact.html#address",
-    "title": "Contact",
+    "objectID": "contact.html#postdoctoral-opportunities",
+    "href": "contact.html#postdoctoral-opportunities",
+    "title": "Opportunities",
     "section": "",
-    "text": "[Department Name]\n[University Name]\n[Street Address]\n[City, State ZIP]"
-  },
-  {
-    "objectID": "contact.html#email",
-    "href": "contact.html#email",
-    "title": "Contact",
-    "section": "Email",
-    "text": "Email\nyou@university.edu"
-  },
-  {
-    "objectID": "contact.html#joining-the-lab",
-    "href": "contact.html#joining-the-lab",
-    "title": "Contact",
-    "section": "Joining the Lab",
-    "text": "Joining the Lab\n[A sentence or two on whether you’re recruiting students/postdocs and how interested applicants should reach out.]"
+    "text": "We are currently recruiting for two postdoctoral positions. Both will be employed through Colorado State University but work closely with the US Forest Service Rocky Mountain Research Station in Fort Collins, Colorado.\n\nUngulate and fire ecology - go here to apply\n\nPosition summary: We are hiring a postdoc to join a collaboration between USFS Rocky Mountain Research Station (Mark Ditmer and Zack Steel), Colorado State University (George Wittemyer and Ellie Bolas), the Rocky Mountain Elk Foundation, Utah DWR, and BYU studying several questions related to fire and ungulates in central Utah. The project includes GPS data from over 100 deer and elk, camera data (predator detections) from across the region, and this region has experienced 5+ fires in the last 20 years. The applicant will be focusing on research on deer habitat selection in response to fire characteristics and predators, with opportunities to engage with data on reproduction, physiology, diet, or competition with elk. The applicant will also be involved in planning and overseeing field work in the summer of 2027. We are hoping to find someone based in Fort Collins or Utah who is ready to start in January. The position is set for 1.5 years, with a strong likelihood of additional funding to extend the position and additional research opportunities.\n\nQuantitative Ecologist - the posting for this position is coming soon\n\nPosition summary: We are seeking a postdoctoral researcher interested in wildlife and biodiversity conservation and the impacts of global change. The ecologist will lead projects integrating and analyzing continent-scale and long-term wildlife datasets (e.g., Breeding bird survey, NABat, SnapshotUSA, NEON). These data will be used to assess status, trends, and forecast wildlife communities and species of conservation concern with respect to global change factors such as ecological disturbance (e.g., fire and drought), land use change, and climate change. Minimum qualifications include a PhD in ecology, geography, data science, or related discipline and a desire to contribute to a positive and safe working environment. Additionally, we are particularly interested in candidates with strong programming (e.g., R, Python, BUGS, Stan), statistical (e.g., Bayesian hierarchical models), and big data skills. Candidates with a record of scientific publication are preferred.\nThe quantitative ecologist will be hired through the Department of Fish, Wildlife and Conservation Biology at Colorado State University (CSU) and have dual affiliations with CSU and the US Forest Service Rocky Mountain Research Station (RMRS). The individual will be supervised by Dr. Zack Steel (RMRS) and Dr. Caitlin Wells (CSU) and will collaborate closely with a network of federal and academic scientists in Colorado and across the US."
   },
   {
     "objectID": "research.html",
@@ -49,46 +84,18 @@
     "text": "Projects\n\n\n\n\n\nColorado Fires & Wildlife\n\n\n\nFire & Forests\n\n\n\nBiodiversity trends\n\n\n\nDrought and wildlife\n\n\n\nForest management & western birds\n\n\n\n\nColorado Fires and Wildlife\n\n\n\n\n\nA black bear on a trail camera\n\n\n\n\nThe 2020 wildfire season was record breaking across the world, with over 50,000 wildfires reported in the US alone. These fires are emblematic of changing fire regimes, with large severe fires becoming more frequent. Wildlife response to fire is often variable, highlighting the need to understand species response to changing fire regimes. We deploy Automated Acoustic Recording Units (ARUs) and camera traps to survey wildlife communities across three historic fires that burned in the Southern Rocky Mountains: the Cameron Peak, Mullen, and East Troublesome fires. Our work using camera traps to assess terrestrial mammal use of these burned areas is currently in review. Analyses using acoustic data to assess bird and bat responses are ongoing - stay tuned.\n\n\n\n‹ Previous\n1 of 5\nNext ›\n\n\n\nFire Ecology and Forest Resilience\n\n\n\n\n\nIllilouette Creek Basin, Yosemite National Park\n\n\n\n\n[Zack will complete this one]\n\n\n\n‹ Previous\n2 of 5\nNext ›\n\n\n\nGlobal change and biodiversity trends\n\n\n\n\n\nField camp in a montane meadow\n\n\n\n\n[Zack will fill in this one w/ text from Hailey about IUCN]\n\n\n\n‹ Previous\n3 of 5\nNext ›\n\n\n\nDrought and wildlife\n\n\n\n\n\nA deer on a trail camera\n\n\n\n\n[We can all help on this one. Does someone want take a first crack at it?]\n\n\n\n‹ Previous\n4 of 5\nNext ›\n\n\n\nForest management & western birds\n\n\n\n\n\nA deer on a trail camera\n\n\n\n\nActive forest management is practiced across US forests to achieve many objectives including reducing wildfire hazard, timber production, and wildlife habitat management. Understanding how these actions influence animal communities is important for successful multi-use management of public lands and wildlife conservation. To this end, we are conducting multiple projects investigating biodiversity response to forest treatments.\nAdaptive Silviculture for Climate Change (ASCC)\nAs part of a long-term manipulative experiment we are testing how wildlife respond to three forest management strategies (i.e., resistance, resilience, and transition) across three distinct forest types in Colorado. We use acoustic recording units (ARUs) and remote cameras survey birds, bats, and terrestrial mammals within experimental units. To date, we have completed pre-treatment surveys and are beginning to test the immediate effects of different levels of tree removal. In the years to come we will examine long-term wildlife responses to changes in forest structure, composition, and succession.\nWestern birds’ response to forest treatments\nIn collaboration with researchers at the Cornell Lab of Ornithology and Colorado State University, we investigated how 103 birds across the western United States responded to four common forest treatment types (prescribed fire, thinning, mastication, and clearcuts), as well as how responses vary by the extent of treatment across the landscape and time since treatment. Findings from this work are currently under review and we are excited to share implications for western forest and wildlife management soon.\nPinyon jay response to vegetation treatments\nThe pinyon jay is an important mutualistic species with pinyon pine species in the US southwest. The jay has also suffered a dramatic decades-long decline. This trend has spurred intensive interest in improving our understanding of pinyon jay ecology and in developing a conservation strategy to arrest population declines. To aid in this effort we used eBird participatory science data and broad-scale vegetation treatment data to assess how jays are affected by common treatment types (i.e., prescribed fire, thinning, and mastication), how these effects vary across seasons, time since treatment, and across baseline habitat conditions. This work is currently in review for publication.\n\n\n\n‹ Previous\n5 of 5\nNext ›"
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "Principal Investigator\nZack is a Research Ecologist with the Forest Service, Rocky Mountain Research Station in Fort Collins, CO and an Affiliate Faculty at Colorado State University. He is interested all things forest disturbance, and wildlife, especially western forests, birds, and bats.\nEmail: zachary.steel[at]usda.gov  ·   Google Scholar  ·  Forest Service Profile  ·  CV"
-  },
-  {
-    "objectID": "people.html#principal-investigator",
-    "href": "people.html#principal-investigator",
-    "title": "People",
-    "section": "",
-    "text": "Principal Investigator\nZack is a Research Ecologist with the Forest Service, Rocky Mountain Research Station in Fort Collins, CO and an Affiliate Faculty at Colorado State University. He is interested all things forest disturbance, and wildlife, especially western forests, birds, and bats.\nEmail: zachary.steel[at]usda.gov  ·   Google Scholar  ·  Forest Service Profile  ·  CV"
-  },
-  {
-    "objectID": "people.html#current-researchers",
-    "href": "people.html#current-researchers",
-    "title": "People",
-    "section": "Current Researchers",
-    "text": "Current Researchers\n\n\n\n\n\nLeah McTigue\nResearch Associate\nLeah is an Ecological Research Associate with Colorado State University Warner College of Natural Resources, Forest and Rangeland Stewardship and the U.S Forest Service Rocky Mountain Research Station in Fort Collins. She received her master’s degree from the University of Arkansas in 2023 on wildlife response to urbanization in Northwest Arkansas. In her current role, she is assessing the impact of the 2020 wildfire season on wildlife in the Southern Rocky Mountains, specifically looking at the Cameron Peak fire, Mullen fire, and East Troublesome fire.\nEmail: leah.mctigue[at]colostate.edu  ·  Google Scholar  ·  CV\n\n\n\n\n\n\n\nHailey Boone\nPostdoctoral Researcher\nHailey is a postdoctoral researcher with Colorado State University Warner College of Natural Resources, Forest and Rangeland Stewardship and with the U.S Forest Service Rocky Mountain Research Station in Fort Collins. She received her doctoral degree from Michigan State University in 2024, with a dissertation on Moose and wolf dynamics and their response to park recreation visitation in Isle Royale National Park. She received her master’s degree investigating predator-prey dynamics centered around white-tailed deer fawns from North Carolina State University in 2019. She is interested in wildlife response to anthropogenic-related disturbances, especially for large mammal species, but is currently warming up to birds.\nEmail: hailey.boone@colostate.edu  ·  Google Scholar  ·  CV\n\n\n\n\n\n\n\nEllie Bolas\nPostdoctoral Researcher\n[A few sentences on their project or research interests.]"
-  },
-  {
-    "objectID": "people.html#lab-alumni",
-    "href": "people.html#lab-alumni",
-    "title": "People",
-    "section": "Lab Alumni",
-    "text": "Lab Alumni\n\n\n\n\n\nMerijn van den Bosch\nPostdoctoral Researcher\nMerijn’s worked as a postdoctoral research scientist at Colorado State University, in collaboration with the U.S Forest Service, studying the effects of climate-change induced drought on biodiversity. Currently, Merijn is a postdoctoral research scientist at Michigan State University, where he studies the ecology and management of Gray wolves in the Great Lakes region of the United States. Broadly, he is interested in Wildlife conservation and in assessing and mitigating the impacts of human activity on wildlife.\nGoogle Scholar"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": ".",
     "section": "",
-    "text": "We are the Biodiversity and Disturbance Lab affiliated with the Forest Service Rocky Mountain Research Station and Colorado State University. Our research focuses on understanding how biodiversity and ecosystem function respond to natural and anthropogenic disturbances, including fire, drought, and land use change. We use a combination of field studies, spatial analyses, and modeling approaches to address questions related to wildlife response to change, forest resilience, and biodiversity conservation in the face of global change. Our work is motivated by the need to inform management and policy decisions that promote sustainable ecosystems and biodiversity conservation.\n\n\n\n\n\n\nNoteThis website is under construction"
+    "text": "We are the Biodiversity and Disturbance Lab affiliated with the Forest Service Rocky Mountain Research Station and Colorado State University. Our research focuses on understanding how biodiversity and ecosystem function respond to natural and anthropogenic disturbances, including fire, drought, and land use change. We use a combination of field studies, spatial analyses, and modeling approaches to address questions related to wildlife response to change, forest resilience, and biodiversity conservation in the face of global change. Our work is motivated by the need to inform management and policy decisions that promote sustainable ecosystems and biodiversity conservation."
   },
   {
     "objectID": "index.html#biodiversity-and-disturbance-bad-lab",
     "href": "index.html#biodiversity-and-disturbance-bad-lab",
     "title": ".",
     "section": "",
-    "text": "We are the Biodiversity and Disturbance Lab affiliated with the Forest Service Rocky Mountain Research Station and Colorado State University. Our research focuses on understanding how biodiversity and ecosystem function respond to natural and anthropogenic disturbances, including fire, drought, and land use change. We use a combination of field studies, spatial analyses, and modeling approaches to address questions related to wildlife response to change, forest resilience, and biodiversity conservation in the face of global change. Our work is motivated by the need to inform management and policy decisions that promote sustainable ecosystems and biodiversity conservation.\n\n\n\n\n\n\nNoteThis website is under construction"
+    "text": "We are the Biodiversity and Disturbance Lab affiliated with the Forest Service Rocky Mountain Research Station and Colorado State University. Our research focuses on understanding how biodiversity and ecosystem function respond to natural and anthropogenic disturbances, including fire, drought, and land use change. We use a combination of field studies, spatial analyses, and modeling approaches to address questions related to wildlife response to change, forest resilience, and biodiversity conservation in the face of global change. Our work is motivated by the need to inform management and policy decisions that promote sustainable ecosystems and biodiversity conservation."
   },
   {
     "objectID": "index.html#recent-news-upcoming-events",
@@ -98,24 +105,10 @@
     "text": "Recent News & Upcoming Events\n\nNovember 2026 — Leah and Zack will be presenting our work at The Wildlife Society national meeting. Come find us.\nJune 2026 — New article in led by lab alum Merijn van den Bosch was published in Conservation Letters documents drought impacts on birds in the arid West.\nFebruary 2026 - New article led by Leah McTigue, Merijn van den Bosch, and Hailey Boone was published in Global Change Biology, reviewing the global literature on drought effects on wildlife."
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Publications below are generated automatically from references.bib in this repository. To add a new publication, add a new BibTeX entry to that file — no need to edit this page. Quarto will render the full list under “References” when the site rebuilds.\n\n\n\n\nReferences\n\nDoe, Jane, and Alex Lee. 2022. “A Second Example Publication.” Another Ecology Journal 8: 45–60. https://doi.org/10.xxxx/example2.\n\n\nDoe, Jane, and John Smith. 2024. “An Example Publication Title Goes Here.” Journal of Example Ecology 12 (3): 100–110. https://doi.org/10.xxxx/example."
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
-    "section": "",
-    "text": "Add new items to the top of this list.\n\n[Month Year] — [News item: paper accepted, grant awarded, new lab member, conference talk, etc.]\n[Month Year] — [News item]\n[Month Year] — [News item]"
-  },
-  {
-    "objectID": "photogallery.html",
-    "href": "photogallery.html",
-    "title": "Photo Gallery",
-    "section": "",
-    "text": "Scenes from the field, the lab, and everywhere in between.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2024 Colorado fires field crew\n\n\n\n\n\n\nA pyrodiverse landscape in Illilouette Creek Basin, Yosemite National Park\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrevious\n\n\nNext"
+    "objectID": "index.html#opportunities",
+    "href": "index.html#opportunities",
+    "title": ".",
+    "section": "Opportunities",
+    "text": "Opportunities\nInterested in joining the lab? Visit Opportunities for details."
   }
 ]
